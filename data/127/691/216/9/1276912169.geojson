@@ -63,7 +63,7 @@
         "wk:page":"Gorni_Lipovikj"
     },
     "wof:country":"MK",
-    "wof:geomhash":"bc179ab405261bbf064b3743a48a7659",
+    "wof:geomhash":"1f29b4312df9db93b598db5793c6d046",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     22.49306,
     41.51139000000001
 ],
-  "geometry": {"coordinates":[22.49306,41.51139000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.49306,41.51139],"type":"Point"}
 }

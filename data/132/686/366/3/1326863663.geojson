@@ -65,7 +65,7 @@
         "wk:page":"Trebi%C5%A1te"
     },
     "wof:country":"MK",
-    "wof:geomhash":"f677b44baeeb8155bfb2ffcb16ad8274",
+    "wof:geomhash":"30a57d6640b31b509cc010f7b4a2bdb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     20.58917000000001,
     41.62833
 ],
-  "geometry": {"coordinates":[20.58917000000001,41.62833],"type":"Point"}
+  "geometry": {"coordinates":[20.58917,41.62833],"type":"Point"}
 }

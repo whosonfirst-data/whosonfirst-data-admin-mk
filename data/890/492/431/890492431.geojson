@@ -87,7 +87,7 @@
     },
     "wof:country":"MK",
     "wof:created":1469054890,
-    "wof:geomhash":"b61a9c2d9b7c183cf8c338a7d374c1ac",
+    "wof:geomhash":"58cd61fa7b1e3ed882d99d96e378e381",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,5 +114,5 @@
     21.0,
     41.86333
 ],
-  "geometry": {"coordinates":[21.0,41.86333],"type":"Point"}
+  "geometry": {"coordinates":[21,41.86333],"type":"Point"}
 }

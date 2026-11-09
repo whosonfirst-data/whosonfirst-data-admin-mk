@@ -48,7 +48,7 @@
         "wk:page":"Orehovo_%28Macedonia%29"
     },
     "wof:country":"MK",
-    "wof:geomhash":"5069e6c971243856da17ef011d8876f7",
+    "wof:geomhash":"8dfd6688211af26f86a9c88ac3f69694",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,5 +73,5 @@
     21.31187000000001,
     40.98357
 ],
-  "geometry": {"coordinates":[21.31187000000001,40.98357],"type":"Point"}
+  "geometry": {"coordinates":[21.31187,40.98357],"type":"Point"}
 }

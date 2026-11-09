@@ -47,7 +47,7 @@
         "gn:id":789378
     },
     "wof:country":"MK",
-    "wof:geomhash":"6d5f21c5bb5942cadcb8b3f92b1b9efb",
+    "wof:geomhash":"9eecbec4470e700826c61f16a7eb23c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     22.42028,
     41.68944000000001
 ],
-  "geometry": {"coordinates":[22.42028,41.68944000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.42028,41.68944],"type":"Point"}
 }

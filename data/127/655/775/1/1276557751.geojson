@@ -63,7 +63,7 @@
         "wk:page":"Bujkovci"
     },
     "wof:country":"MK",
-    "wof:geomhash":"d72ed91f56cb404a153fddae3e7c0813",
+    "wof:geomhash":"703f362d9cbbb4f43e14d59c404103e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     21.64972,
     42.00389000000001
 ],
-  "geometry": {"coordinates":[21.64972,42.00389000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.64972,42.00389],"type":"Point"}
 }

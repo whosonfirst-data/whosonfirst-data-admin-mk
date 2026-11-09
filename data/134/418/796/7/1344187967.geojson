@@ -60,7 +60,7 @@
         "wk:page":"Lazaropole"
     },
     "wof:country":"MK",
-    "wof:geomhash":"7da0fc3b76d3c24e1720f096b5f70bec",
+    "wof:geomhash":"9a7384fa5687d77f896edf4eb0051ccf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     20.69495,
     41.53599000000001
 ],
-  "geometry": {"coordinates":[20.69495,41.53599000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.69495,41.53599],"type":"Point"}
 }

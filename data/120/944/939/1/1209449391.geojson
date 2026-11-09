@@ -63,7 +63,7 @@
         "wk:page":"Drmeni"
     },
     "wof:country":"MK",
-    "wof:geomhash":"85b8c40b28b73f497a2ea5de174e4eed",
+    "wof:geomhash":"5550d7cc199ba61f94decfab37bf3e96",
     "wof:hierarchy":[
         {
             "country_id":85632373,
@@ -86,5 +86,5 @@
     20.99862000000001,
     41.03276
 ],
-  "geometry": {"coordinates":[20.99862000000001,41.03276],"type":"Point"}
+  "geometry": {"coordinates":[20.99862,41.03276],"type":"Point"}
 }

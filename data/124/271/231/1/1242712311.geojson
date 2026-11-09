@@ -74,7 +74,7 @@
         "wk:page":"%C5%A0legovo"
     },
     "wof:country":"MK",
-    "wof:geomhash":"6c18dac6594d358d8035e94e40a15b3b",
+    "wof:geomhash":"c4f1735d82d132e80481690c814f9e6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     22.16214,
     42.06529000000001
 ],
-  "geometry": {"coordinates":[22.16214,42.06529000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.16214,42.06529],"type":"Point"}
 }
