@@ -1,0 +1,72 @@
+{
+  "id": 9895041511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.01653,42.14459,22.01653,42.14459",
+    "geom:latitude":42.14459,
+    "geom:longitude":22.01653,
+    "iso:country":"MK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13427540: name \"Popovci\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13427540"
+        },
+        {
+            "citation":"GeoNames populated place 13427540: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13427540"
+        },
+        {
+            "citation":"GeoNames populated place 13427540: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13427540"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85674345 (Kratovo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632373,
+        85674345,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13427540
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"90db721888eed037fd5dc43679e5d470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":9895041511,
+            "region_id":85674345
+        }
+    ],
+    "wof:id":9895041511,
+    "wof:lastmodified":1795735184,
+    "wof:name":"Popovci",
+    "wof:parent_id":85674345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.01653,
+    42.14459,
+    22.01653,
+    42.14459
+],
+  "geometry": {"coordinates":[22.01653,42.14459],"type":"Point"}
+}

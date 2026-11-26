@@ -1,0 +1,72 @@
+{
+  "id": 9895041512,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.01718,42.23838,22.01718,42.23838",
+    "geom:latitude":42.23838,
+    "geom:longitude":22.01718,
+    "iso:country":"MK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13427541: name \"Dolna Maala\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13427541"
+        },
+        {
+            "citation":"GeoNames populated place 13427541: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13427541"
+        },
+        {
+            "citation":"GeoNames populated place 13427541: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13427541"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85674215 (Northeastern), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632373,
+        85674215,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13427541
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"12ebbea340cbba015fc5a129e98c9603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":9895041512,
+            "region_id":85674215
+        }
+    ],
+    "wof:id":9895041512,
+    "wof:lastmodified":1795735184,
+    "wof:name":"Dolna Maala",
+    "wof:parent_id":85674215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.01718,
+    42.23838,
+    22.01718,
+    42.23838
+],
+  "geometry": {"coordinates":[22.01718,42.23838],"type":"Point"}
+}

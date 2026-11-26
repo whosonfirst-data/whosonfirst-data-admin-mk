@@ -1,0 +1,72 @@
+{
+  "id": 9895041505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.27169,41.98432,21.27169,41.98432",
+    "geom:latitude":41.98432,
+    "geom:longitude":21.27169,
+    "iso:country":"MK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12166944: name \"Gorna Arnakija\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12166944"
+        },
+        {
+            "citation":"GeoNames populated place 12166944: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12166944"
+        },
+        {
+            "citation":"GeoNames populated place 12166944: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12166944"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85674205 (Saraj), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632373,
+        85674205,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12166944
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"1a62bf195f926912a6b30e4a08bb568c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":9895041505,
+            "region_id":85674205
+        }
+    ],
+    "wof:id":9895041505,
+    "wof:lastmodified":1795735184,
+    "wof:name":"Gorna Arnakija",
+    "wof:parent_id":85674205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.27169,
+    41.98432,
+    21.27169,
+    41.98432
+],
+  "geometry": {"coordinates":[21.27169,41.98432],"type":"Point"}
+}
