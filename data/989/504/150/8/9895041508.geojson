@@ -1,0 +1,72 @@
+{
+  "id": 9895041508,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.80797,41.03312,20.80797,41.03312",
+    "geom:latitude":41.03312,
+    "geom:longitude":20.80797,
+    "iso:country":"MK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12176034: name \"Eleshec\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12176034"
+        },
+        {
+            "citation":"GeoNames populated place 12176034: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12176034"
+        },
+        {
+            "citation":"GeoNames populated place 12176034: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12176034"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85674165 (Ohrid), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632373,
+        85674165,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12176034
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"705ba27e50fcfbe29a83b4c0c448b091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":9895041508,
+            "region_id":85674165
+        }
+    ],
+    "wof:id":9895041508,
+    "wof:lastmodified":1795735184,
+    "wof:name":"Eleshec",
+    "wof:parent_id":85674165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.80797,
+    41.03312,
+    20.80797,
+    41.03312
+],
+  "geometry": {"coordinates":[20.80797,41.03312],"type":"Point"}
+}

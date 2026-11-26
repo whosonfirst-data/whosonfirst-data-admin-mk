@@ -1,0 +1,72 @@
+{
+  "id": 9895041507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.93954,41.97669,20.93954,41.97669",
+    "geom:latitude":41.97669,
+    "geom:longitude":20.93954,
+    "iso:country":"MK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12166947: name \"Kalnik\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12166947"
+        },
+        {
+            "citation":"GeoNames populated place 12166947: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12166947"
+        },
+        {
+            "citation":"GeoNames populated place 12166947: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12166947"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85674425 (Bogovinje), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632373,
+        85674425,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12166947
+    },
+    "wof:country":"MK",
+    "wof:geomhash":"389af8f2c1906f8476cc97b0112f9953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632373,
+            "locality_id":9895041507,
+            "region_id":85674425
+        }
+    ],
+    "wof:id":9895041507,
+    "wof:lastmodified":1795735184,
+    "wof:name":"Kalnik",
+    "wof:parent_id":85674425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.93954,
+    41.97669,
+    20.93954,
+    41.97669
+],
+  "geometry": {"coordinates":[20.93954,41.97669],"type":"Point"}
+}
